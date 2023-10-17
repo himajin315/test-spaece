@@ -41,7 +41,8 @@
     "vscode": {
       "extensions": [
         "GitHub.codespaces",
-        "Shopify.ruby-lsp"   // https://github.com/Shopify/ruby-lsp
+        "castwide.solargraph",   // https://github.com/castwide/vscode-solargraph
+        "Shopify.ruby-lsp"       // https://github.com/Shopify/ruby-lsp
       ],
       "settings": {
         // Use Ctrl+Shift+P->Format to format.
